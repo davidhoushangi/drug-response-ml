@@ -94,9 +94,9 @@ Benchmarking against other pharmacogenomic pipelines.
 
 ## Citations
 
-Yang et al., Genomics of Drug Sensitivity in Cancer (GDSC), Nat Genet (2013).
 
-Ghandi et al., Next-generation characterization of the Cancer Cell Line Encyclopedia (CCLE), Nature (2019).
+
+
 
 ## Acknowledgments
 
