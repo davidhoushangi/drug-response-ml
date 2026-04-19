@@ -1,6 +1,6 @@
 # Drug Sensitivity Prediction from Gene Expression
 
-## Overview
+## Project Overview
 This project explores how machine learning can be used to predict drug sensitivity in cancer cell lines based on RNA-seq expression data. By combining publicly available data from the **Genomics of Drug Sensitivity in Cancer (GDSC)** and the **Cancer Cell Line Encyclopedia (DepMap/CCLE)**, the project builds models that estimate how responsive different cell lines are to specific compounds. The work demonstrates the potential of computational methods to accelerate **drug discovery** and support **personalized medicine**.
 
 ---
